@@ -1,2 +1,2 @@
-# ka-drtr
-Kansas Right to Repair Campaign
+# il-drtr
+Illinois Right to Repair Site
